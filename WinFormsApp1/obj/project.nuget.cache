@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yGjSIXYHg84=",
+  "dgSpecHash": "w/zVpDqkTHE=",
   "success": true,
-  "projectFilePath": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HACOM\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\HACOM\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

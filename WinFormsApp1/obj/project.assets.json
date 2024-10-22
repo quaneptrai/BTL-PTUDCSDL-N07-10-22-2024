@@ -1692,11 +1692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\HACOM\\.nuget\\packages\\",
-      "outputPath": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HACOM\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1692,11 +1692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\HACOM\\.nuget\\packages\\",
-      "outputPath": "C:\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HACOM\\AppData\\Roaming\\NuGet\\NuGet.Config",

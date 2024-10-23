@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\",
+  "WorkspaceRootPath": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\bigproject\\applicationfromsql\\baitaplon\\winformsapp1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\bigproject\\applicationfromsql\\baitaplon\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\bigproject\\applicationfromsql\\baitaplon\\winformsapp1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\bigproject\\applicationfromsql\\baitaplon\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\winformsapp1\\chinhsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\chinhsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\bigproject\\applicationfromsql\\baitaplon\\winformsapp1\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\winformsapp1\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\winformsapp1\\danhsachgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\danhsachgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\winformsapp1\\danhsachhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\danhsachhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\winformsapp1\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hacom\\documents\\github\\btl-ptudcsdl-n07-10-22-2024\\winformsapp1\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\bigproject\\applicationfromsql\\baitaplon\\winformsapp1\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\winformsapp1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hacom\\documents\\github\\btl-ptudcsdl-n07-10-22-2024\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hacom\\documents\\github\\btl-ptudcsdl-n07-10-22-2024\\winformsapp1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hacom\\documents\\github\\btl-ptudcsdl-n07-10-22-2024\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\winformsapp1\\chinhsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\chinhsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hacom\\documents\\github\\btl-ptudcsdl-n07-10-22-2024\\winformsapp1\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\winformsapp1\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\lapbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\winformsapp1\\danhsachgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\danhsachgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\winformsapp1\\danhsachhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\danhsachhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hacom\\documents\\github\\btl-ptudcsdl-n07-10-22-2024\\winformsapp1\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\thoikhoabieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\winformsapp1\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\winformsapp1\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6727B5B4-82EC-42BF-80F3-62B14E5361EC}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -62,15 +62,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\Login.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Login.cs",
-              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\Login.cs",
               "RelativeToolTip": "WinFormsApp1\\Login.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,45 +84,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Chinhsuataikhoan.cs [Design]",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Chinhsuataikhoan.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Chinhsuataikhoan.cs",
-              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Chinhsuataikhoan.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Chinhsuataikhoan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:23:04.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Danhsachhocsinh.cs [Design]",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Danhsachhocsinh.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Danhsachhocsinh.cs",
-              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Danhsachhocsinh.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Danhsachhocsinh.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:19:33.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TrangChu.cs [Design]",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\TrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\TrangChu.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\TrangChu.cs",
-              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\TrangChu.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\TrangChu.cs [Design]",
+              "ToolTip": "C:\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\TrangChu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\TrangChu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T15:01:34.664Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-14T15:01:34.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TrangChu.cs",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\TrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\TrangChu.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\TrangChu.cs",
-              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\TrangChu.cs",
               "RelativeToolTip": "WinFormsApp1\\TrangChu.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAmwCkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WinFormsApp1.csproj",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\WinFormsApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\WinFormsApp1.csproj",
               "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
-              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\WinFormsApp1.csproj",
               "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -142,47 +119,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "ThoiKhoaBieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\ThoiKhoaBieu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\ThoiKhoaBieu.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\ThoiKhoaBieu.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\ThoiKhoaBieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:25:14.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Danhsachhocsinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\Danhsachhocsinh.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Danhsachhocsinh.cs",
+              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Danhsachhocsinh.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Danhsachhocsinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:19:33.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chinhsuataikhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\Chinhsuataikhoan.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Chinhsuataikhoan.cs",
+              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Chinhsuataikhoan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Chinhsuataikhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:23:04.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Danhsachgiaovien.cs [Design]",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Danhsachgiaovien.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\Danhsachgiaovien.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Danhsachgiaovien.cs",
               "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Danhsachgiaovien.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Danhsachgiaovien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Danhsachgiaovien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T11:19:52.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TrangChu.Designer.cs",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\TrangChu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\TrangChu.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\TrangChu.Designer.cs",
-              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\TrangChu.Designer.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\TrangChu.Designer.cs",
               "RelativeToolTip": "WinFormsApp1\\TrangChu.Designer.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAD4v04AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T05:23:49.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T05:23:49.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Lapbaocao.cs [Design]",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Lapbaocao.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\Lapbaocao.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Lapbaocao.cs",
               "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Lapbaocao.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Lapbaocao.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Lapbaocao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T11:20:22.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\Login.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Login.cs",
               "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Login.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T12:05:49.768Z"
             },
@@ -190,34 +200,22 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ThoiKhoaBieu.cs",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\ThoiKhoaBieu.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\ThoiKhoaBieu.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\ThoiKhoaBieu.cs",
-              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\ThoiKhoaBieu.cs",
+              "ToolTip": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\ThoiKhoaBieu.cs",
               "RelativeToolTip": "WinFormsApp1\\ThoiKhoaBieu.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAD4vxUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:08:54.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ThoiKhoaBieu.cs [Design]",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\ThoiKhoaBieu.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\ThoiKhoaBieu.cs",
-              "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\ThoiKhoaBieu.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\ThoiKhoaBieu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T05:25:14.121Z"
+              "WhenOpened": "2024-10-21T11:08:54.935Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "QuenMatKhau.cs [Design]",
-              "DocumentMoniker": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\QuenMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\HACOM\\Documents\\GitHub\\BTL-PTUDCSDL-N07-10-22-2024\\WinFormsApp1\\QuenMatKhau.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\QuenMatKhau.cs",
               "ToolTip": "C:\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\QuenMatKhau.cs [Design]",
-              "RelativeToolTip": "WinFormsApp1\\QuenMatKhau.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\BigProject\\ApplicationFromSql\\BaiTapLon\\WinFormsApp1\\QuenMatKhau.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T13:25:37.023Z"
             }

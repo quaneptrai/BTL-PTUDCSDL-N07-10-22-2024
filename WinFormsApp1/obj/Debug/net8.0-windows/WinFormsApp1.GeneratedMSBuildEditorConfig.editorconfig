@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WinFormsApp1
-build_property.ProjectDir = C:\BTL-PTUDCSDL-N07-10-22-2024\WinFormsApp1\
+build_property.ProjectDir = C:\Users\HACOM\Documents\GitHub\BTL-PTUDCSDL-N07-10-22-2024\WinFormsApp1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
